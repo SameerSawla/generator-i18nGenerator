@@ -10,7 +10,7 @@ var I18ngeneratorGenerator = yeoman.generators.Base.extend({
   },
 
   askFor: function () {
-    var done = this.async();
+
 
     // Have Yeoman greet the user.
     this.log(yosay(
