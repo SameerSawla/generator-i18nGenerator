@@ -1,0 +1,38 @@
+{
+  "name": "requirejs-messageformat",
+  "version": "0.1.0",
+  "main": [
+    "src/msgfmt.js"
+  ],
+  "ignore": [
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "Gruntfile.js",
+    "test"
+  ],
+  "dependencies": {
+    "requirejs": "2.1.2",
+    "messageformat": "0.1.8",
+    "requirejs-text": "2.0.10"
+  },
+  "devDependencies": {
+    "qunit": "1.14.0",
+    "r.js": "2.1.11"
+  },
+  "author": {
+    "name": "Ghislain Seguin",
+    "url": "https://github.com/gseguin"
+  },
+  "homepage": "https://github.com/gseguin/requirejs-messageformat",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "8410434d997d65e37c78d9e1176d9252998f560f"
+  },
+  "_source": "git://github.com/gseguin/requirejs-messageformat.git",
+  "_target": "~0.1.0",
+  "_originalSource": "requirejs-messageformat",
+  "_direct": true
+}
